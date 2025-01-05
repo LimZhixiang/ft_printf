@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://drive.google.com/uc?id=1iV9VEnXtBzfersmoFqvyXjs_U_RsDn9E" alt="FT_PRINTF_LOGO" width="150px">
+	<img src="https://github.com/user-attachments/assets/537cd932-8274-4d9e-9925-ab36da030103" alt="FT_PRINTF_LOGO" width="150px">
 </div>
 
 ## Table of Contents
